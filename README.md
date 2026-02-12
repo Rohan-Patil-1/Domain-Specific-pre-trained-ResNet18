@@ -32,5 +32,5 @@ SPIE Conference Abstract: https://spie.org/medical-imaging/presentation/Evaluati
 ## Acknowledgement:
 This work was supported by the National Institutes of Health (NIH) under the VS-EDGE: Visual-Semantic Explanations for Diagnostic Guidance grant, award number 1R15CA297521-01.
 
-Reference:
+## Reference:
 [1] https://www.midrc.org
