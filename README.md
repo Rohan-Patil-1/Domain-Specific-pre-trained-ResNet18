@@ -1,4 +1,4 @@
-# Domain-Specific-pre-trained-ResNet18
+# Domain Specific Pre-Trained ResNet18
 This repository publishes a ResNet-18 model pretrained sequentially on ImageNet and then fine-tuned on the Medical Imaging Data Resource Center (MIDRC) dataset[1] and a ResNet-18 model trained sequentially on MIDRC only data. Models were trained on approximately 320 imaging studies and 160 imaging studies (chest CT scans) from MIDRC, selected for its domain-specific relevance to pulmonary conditions. This sequential pretraining strategy yielded superior performance in downstream COVID-19 classification tasks, achieving an AUC-ROC of 0.9130 and accuracy of 85.94% on relevant benchmarks.
 The encoder serves as a strong domain-adapted backbone for applications in explainable computer-aided diagnosis (CAD) of lung nodules, semantic deep neural networks, latent space reconstructions via VAEs, disease progression modeling (e.g., spiculation variations), and integration with Siamese networks for visual-semantic learning—aligning with goals to bridge perceptual/cognitive gaps in radiology and enhance trust in AI-assisted interpretation.
 
