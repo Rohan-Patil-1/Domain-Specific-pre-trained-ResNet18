@@ -7,7 +7,8 @@ The encoder serves as a strong domain-adapted backbone for applications in expla
     2. Domain_Specific_ResNet18_model : ResNet-18 model trained sequentially on MIDRC only data (160 Imaging Studiee).
     
 ## SPIE Conference
-SPIE Conference Abstract: https://spie.org/medical-imaging/presentation/Evaluating-ImageNet-and-domainspecific-pretraining-for-variational-autoencoder-reconstruction-of/13926-113
+SPIE Conference Paper: 
+```Charmi Patel, Yiyang Wang, Rohan Patil, et al. "Evaluating natural and domain‑specific pretraining for variational autoencoder reconstruction of lung nodules", Proc. SPIE 13926, Medical Imaging 2026: Computer-Aided Diagnosis, 1392633 (2 Apr 2026); https://doi.org/10.1117/12.3088194```
 
 ## Author(s):
 
